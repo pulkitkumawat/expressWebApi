@@ -1,0 +1,20 @@
+{
+  "name": "rest-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "g": "^2.0.1",
+    "git": "^0.1.5",
+    "mongoose": "^5.9.5",
+    "nodemon": "^2.0.2",
+    "npm-git-install": "^0.3.0"
+  }
+}
